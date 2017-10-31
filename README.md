@@ -1,0 +1,1 @@
+![alt text](/Users/NarenMudivarthy/Desktop/Picture1.png "Model Training Architecture")
